@@ -5,5 +5,7 @@
 
 record.js:录制接口  
 playback.js:回放接口  
+
+common.js:基础方法  
 recordconfig.js:录制配置文件  
 playbackconfig.js:回放配置文件  
