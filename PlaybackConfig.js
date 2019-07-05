@@ -6,10 +6,6 @@ module.exports = {
 	'port': '8080',
 	'host_name': '192.168.23.38',
 
-	/*'host': '172.19.1.211:8082',
-	'port': '8082',
-	'host_name': '172.19.1.211',*/
-
 	'playback_testcase_id_or': {
 		"$or": [
 			//{"testcaseId": 'aosplus-interface-001'},
